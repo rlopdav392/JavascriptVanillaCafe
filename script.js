@@ -19,8 +19,8 @@ const obtenerProductos = async () => {
 //obtenerProductos();
 
 const datos = {
-  email: "mimo027@gmail.com",
-  password: "Ringostar_027",
+  email: "lalala@gmail.com",
+  password: "lalalal",
 };
 
 async function logearse() {
